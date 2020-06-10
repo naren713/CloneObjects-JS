@@ -16,4 +16,4 @@ console.log(CarObj);
 // Prints the same values
 
 // As we are using assignment operator, it just assigns the reference to VehicleObj
-// and both these objects point to the same pointer.
+// and both these objects point to the same Object.
