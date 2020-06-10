@@ -32,3 +32,5 @@ var NewObj = {...OrignalObj}
 ### 4. **Since cloning objects is complex (types, function etc.), most major libraries provide function to clone objects.**
 
 - **You can create your own function to do deep copy or use third party libraries like load Lodash.** https://lodash.com/docs/4.17.15
+
+- **This is best way to Deep Clone your object as it does not offer any limitations**
