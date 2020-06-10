@@ -1,0 +1,22 @@
+{
+    "name": "cloneobjects-js",
+    "version": "1.0.0",
+    "description": "Deep Clone Objects in Javascript.",
+    "main": "CloneObj_JSON.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/naren713/CloneObjects-JS.git"
+    },
+    "author": "Naren",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/naren713/CloneObjects-JS/issues"
+    },
+    "homepage": "https://github.com/naren713/CloneObjects-JS#readme",
+    "dependencies": {
+        "loadash": "^1.0.0"
+    }
+}
